@@ -44,7 +44,7 @@ Replace static video card by dynamic loading
 
 Replace static quotes by dynamic loading
 
-### Courses
+### 5. Courses
 
 Replace static video card by dynamic loading
 
